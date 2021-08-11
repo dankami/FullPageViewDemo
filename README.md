@@ -1,0 +1,2 @@
+# FullPageViewDemo
+cocos全屏pageview适配demo
